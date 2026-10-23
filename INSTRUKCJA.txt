@@ -1,0 +1,9 @@
+ŻYCIE BIZNESMENA 4.0 — WAŻNE
+
+Jeżeli otwierasz index.html bezpośrednio w aplikacji Pliki na iPhonie, gra może wyświetlać się bez działających przycisków. To ograniczenie podglądu plików na iOS — nie oznacza, że przyciski wymagają dotknięcia lub innej naprawy.
+
+Aby gra działała interaktywnie, umieść pliki index.html, manifest.json i sw.js na hostingu obsługującym HTTPS, np. GitHub Pages. Po publikacji otwórz publiczny adres gry w Safari. Nie otwieraj pliku index.html z podglądu Plików.
+
+Po uruchomieniu w Safari możesz wybrać Udostępnij → Dodaj do ekranu początkowego.
+
+Zapis automatyczny korzysta z pamięci przeglądarki i może zniknąć po wyczyszczeniu danych witryny. W grze korzystaj też z opcji kodu zapisu i zachowuj go w Notatkach.
