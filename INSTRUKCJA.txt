@@ -1,0 +1,5 @@
+ŻYCIE BIZNESMENA 5.0
+
+Uruchom index.html w Safari lub przeglądarce. W aplikacji Pliki iOS może pokazywać podgląd bez obsługi JavaScriptu. Dla pełnej obsługi przycisków opublikuj wszystkie pliki na hostingu HTTPS i otwórz link w Safari.
+
+Nowości: wiek 18–70 lat (1 rok gry = 365 dni), 16 typów biznesów, nadawanie nazw i wybór lokalizacji, różne mnożniki cen/popytu, 9 nieruchomości, 7 aut z kosztami utrzymania, rozbudowane zamknięcie dnia z bilansem i wynikami każdej firmy.
